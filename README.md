@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giliscarlat
 - 👀 I’m interested in database
-- 🌱 I’m currently learning ython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me anyone
 
